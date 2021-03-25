@@ -40,3 +40,8 @@ typings
 # .NET compiled files
 bin
 obj
+
+# publish profiles
+PublishProfiles
+
+.vs

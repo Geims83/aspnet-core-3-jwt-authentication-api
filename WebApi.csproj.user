@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ActiveDebugProfile>IIS Express</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\gicastel\source\repos\aspnet-core-3-jwt-authentication-api\Properties\PublishProfiles\WebApi20210324184528 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
+  </PropertyGroup>
+</Project>

@@ -33,5 +33,6 @@ namespace WebApi.Controllers
             var users = _userService.GetAll();
             return Ok(users);
         }
+        
     }
 }
